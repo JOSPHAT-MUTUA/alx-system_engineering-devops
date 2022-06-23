@@ -1,1 +1,1 @@
-My Readm file
+Script for printing working directory.
